@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">crudapp</string>
+    <string name="delete_string">Delete</string>
+    <string name="edit_string">Edit</string>
+    <string name="update_details_string">Update Details</string>
+    <string name="dob_string">Date of Birth (yyyy-mm-dd)</string>
+    <string name="email_string">Email</string>
+    <string name="last_name_string">Last Name</string>
+    <string name="first_name_string">First Name</string>
+    <string name="create_student">Create Student</string>
+    <string name="welcome_string">Welcome</string>
+</resources>
